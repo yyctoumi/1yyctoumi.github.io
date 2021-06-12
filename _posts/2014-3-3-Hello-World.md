@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: no
 title: You're so pretty
 ---
 
